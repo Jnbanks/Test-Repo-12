@@ -1,9 +1,30 @@
-
 body {
+    text-align: center;
     background-image: url(https://www.meme-arsenal.com/memes/9f7a3b4350b4b54d874184b57b4b929d.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+main {
+    background: #F7ECDE;
+    padding-bottom: 25px;
+    padding: 0 25px 25px;
 }
 
 h1 {
-   color: beige; 
+    background: #7882A4;
+    padding: 10px;
+    margin: 0;
+    color: beige;
 }
 
+label {
+    font-size: 1.5rem;
+}
+
+.border {
+    border: 2px solid #000;
+    width: 70%;
+    margin: 530px auto 0;
+}
